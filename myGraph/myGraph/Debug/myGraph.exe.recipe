@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>D:\OpenGL\myGraph\Debug\myGraph.exe</FullPath>
+      <FullPath>D:\OpenGL-projects\myGraph\Debug\myGraph.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
