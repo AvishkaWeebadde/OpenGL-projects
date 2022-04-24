@@ -1,3 +1,5 @@
+// Fractsl with OpenGL
+
 #include<Windows.h>
 #include<gl/Gl.h>
 #include<gl/glut.h>
