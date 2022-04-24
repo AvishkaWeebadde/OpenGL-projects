@@ -1,3 +1,5 @@
+// House Sketch Design with random points
+
 #include <Windows.h>
 #include <gl/Gl.h>
 #include <gl/glut.h>
