@@ -1,16 +1,16 @@
 /*
 * 
-**glutInitDisplayMode(GLUT_DEPTH | GLUT_DOUBLE | GLUT_RGBA);
+**glutInitDisplayMode(GLUT_DEPTH | GLUT_DOUBLE | GLUT_RGBA)
 * Depth buffer
 * Double buffering (front and back buffer for smooth flicker free rendering)
 * format of the frame buffer to be with RED, GREEN, BLUE and ALPHA channels
 * 
-**glutInitContextVersion(4, 3);
+**glutInitContextVersion(4, 3)
 * set the required OpenGL context version we desire
 * First parameter is the major version and second parameter is the minor version. (4, 3) => OpenGL version 4.3
 * 
-**glutInitContextFlags(GLUT_CORE_PROFILE | GLUT_DEBUG);
-**glutInitContextProfile(GLUT_FORWARD_COMPATIBLE);
+**glutInitContextFlags(GLUT_CORE_PROFILE | GLUT_DEBUG)
+**glutInitContextProfile(GLUT_FORWARD_COMPATIBLE)
 * we can register a callback when any OpenGL related error occurs. 
 * Passing GLUT_DEBUG to the glutInitContextFlags functions creates the OpenGL context in debug mode which is needed for the debug message callback.
 *	**
