@@ -1,3 +1,5 @@
+// f(x) = sin(2PI * x) graph with OpenGL
+
 #include <windows.h> // use proper includes for your system
 #include <math.h>
 #include <gl/Gl.h>
